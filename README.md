@@ -37,8 +37,7 @@ Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
 * [Google Codelabs - Basic](https://developer.android.com/courses/kotlin-bootcamp/overview?utm_source=week1&utm_medium=email&utm_campaign=30DaysOfKotlin&utm_term=Basic%22)
 * [Google Codelabs - Intermediate](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
 
-## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator/blob/master/LICENSE)
+
 
 
 
